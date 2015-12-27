@@ -1,0 +1,6 @@
+name: CoyneConfig
+version: 1.0.0
+main: net.coyne.config.ConfigHandler
+commands:
+   coyneconfig: 
+       description: Config handler
